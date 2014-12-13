@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Capistrano::Rabbitmq::VERSION
   spec.authors       = ["Vlad Verestiuc"]
   spec.email         = ["verestiuc.vlad@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Rabbitmq deployment tasks for capistrano. }
+  spec.description   = %q{Rabbitmq deployment  tasks for capistrano. }
   spec.homepage      = ""
   spec.license       = "MIT"
 
